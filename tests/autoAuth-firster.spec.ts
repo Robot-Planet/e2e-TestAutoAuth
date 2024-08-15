@@ -5,6 +5,7 @@ import { label, attachment } from "allure-js-commons";  //--- 08/08/2024, Test b
 import { link, issue } from "allure-js-commons";  //--- 08/08/2024, Test by Robot
 //import { log } from 'console';
 
+
 let validUser = 'qa.test02@gmail.com';
 let validPassword = 'Test1234!';
 let urlLogin = 'https://dev-web-frontend.firster.kpc-dev.com/profile';
@@ -12,6 +13,7 @@ let urlProfile = 'https://dev-web-frontend.firster.kpc-dev.com/profile';
 let urlWelcomeBack = 'https://dev-web-frontend.firster.kpc-dev.com/login/welcome-back';
 let urlFirster: string = 'https://dev-web-frontend.firster.kpc-dev.com/';
 
+//--- 2024-08-15, By Robot for pushing project to git repository
 test.describe('Using Authentication Status', () => {
 
   //--- Without configuration it will be parallel mode

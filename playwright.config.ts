@@ -74,7 +74,7 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
      // Setup project, By Robot on 05-07-2024
-     { name: 'setup', testMatch: /.*\.setup\.ts/ },
+    { name: 'setup', testMatch: /.*\.setup\.ts/ },
 
     {
       name: 'chromium',
@@ -86,19 +86,19 @@ export default defineConfig({
        dependencies: ['setup'],
     },
 
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'],
-        // Use prepared auth state.
-        //storageState: 'playwright/.auth/user.json',
-       },
-       //dependencies: ['setup'],
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'],
+    //     // Use prepared auth state.
+    //     //storageState: 'playwright/.auth/user.json',
+    //    },
+    //    //dependencies: ['setup'],
+    // },
 
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari']},
-    },
+    // {
+    //   name: 'webkit',
+    //   use: { ...devices['Desktop Safari']},
+    // },
 
     /* Test against mobile viewports. */
     // {
