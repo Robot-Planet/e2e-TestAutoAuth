@@ -1,0 +1,5 @@
+MyCustAddr HName: QA AutomateTest
+MyCustAddr Detail: 298/165 หมู่บ้านดิโอโซน (ซอย 15) ซอยเพชรเกษม 53 ถนนเพชรเกษม, หลักสอง, บางแค, กรุงเทพมหานคร 10160
+MyCustAddr Telno: (+66)82 355 7680
+Finished my-address with status timedOut
+Did not run as expected, ended up at https://dev-web-frontend.firster.kpc-dev.com/my-address

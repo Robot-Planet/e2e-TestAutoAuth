@@ -1,0 +1,6 @@
+Finished my-profile with status timedOut
+Did not run as expected, ended up at https://dev-web-frontend.firster.kpc-dev.com/profile
+TestCust Email: xxqa.teset02@gmail-xx.com
+TestCust TelNo: -xx
+Page Email: qa.test02@gmail.com , qa.test02@gmail.com
+Page TelNo: - , -

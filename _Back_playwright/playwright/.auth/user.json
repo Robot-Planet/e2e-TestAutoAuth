@@ -1,0 +1,203 @@
+{
+  "cookies": [
+    {
+      "name": "OMG-Channel-2307094",
+      "value": "Channel%3D",
+      "domain": "track.omguk.com",
+      "path": "/",
+      "expires": 1725360975.505299,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OMGID",
+      "value": "UUserID%3D%7B72922dba-6ee3-4ee1-89c1-36009aef67a7%7D",
+      "domain": "track.omguk.com",
+      "path": "/",
+      "expires": 1725360975.505504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OMGSession",
+      "value": "SessionID%3D21ce294c79df4843a8482c0b1fe732d4%26SessionCount%3D0",
+      "domain": "track.omguk.com",
+      "path": "/",
+      "expires": 1720178775.505521,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "global-blutrk",
+      "value": "d04dd93c-1ba4-4ece-ad70-a300466eed1f",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1722768975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "spses.a16d",
+      "value": "*",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1720178783,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userjournies",
+      "value": "5fd9c1ef-8105-4d9c-875e-c73c1f845ad4",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1722768975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uxid",
+      "value": "6e568469-df0f-46aa-87a9-8e81646f22ce",
+      "domain": "webtrafficsource.com",
+      "path": "/",
+      "expires": 1751712960.969452,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sp",
+      "value": "033da6e4-a16f-4723-b854-ae07f94c9601",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1751712983.147443,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OnetrustActiveGrp",
+      "value": "C0001",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isIABGlobal=false&datestamp=Fri+Jul+05+2024+17%3A56%3A17+GMT%2B0700+(Indochina+Time)&version=6.36.0&hosts=&landingPath=https%3A%2F%2Fdev-web-frontend.firster.kpc-dev.com%2Flogin%3FbackUrl%3D%2Fprofile&groups=C0001%3A1%2CC0003%3A0%2CC0007%3A0",
+      "domain": ".firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1751712977,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_user",
+      "value": "VKrgaiVAsoTIcWAU4hWQoE|2024-07-05T10:56:17.436Z",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1751712977.436234,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "0U8JKMwaPx9I0HEes69fFS|1720176977557|1720176977557",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1720178777.557698,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "dd81d29d186d842bdcfa2ea04960b1152b2b6aca0ef71c7bf88e52429703e115%7Cfffb77af3c636e1f6fdf188010415477be21dfab38ee7241dd6bac1ce63dbac8",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fdev-web-frontend.firster.kpc-dev.com",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_id_t",
+      "value": "ea998f31-096d-443f-afec-1c060888f4f8",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1722768983,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "superuser",
+      "value": "76ecf832-a128-49a3-ad72-b8fec2b904c4",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1722768983,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "RT",
+      "value": "\"z=1&dm=kpc-dev.com&si=488b21a0-537e-4ba9-9109-c97ef1f78dcb&ss=ly8kygiy&sl=1&tt=4l5&bcn=https%3A%2F%2Feum.kingpowerclick.com%2Fbeacon%2F&ld=4l5&nu=2yv7g209&cl=4p1\"",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1720781780,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "spid.a16d",
+      "value": "735ae35b-0c53-480f-ba74-1e6307300ebe.1720176976.1.1720176983.1720176976.e3b4f5cd-c6fa-48d4-93f5-6678db1e51df",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1754736983.438189,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev-web-frontend.firster.kpc-dev.com",
+      "localStorage": [
+        {
+          "name": "snowplowOutQueue_snowplow_com.kingpowerclick.firster_ecom_post2.expires",
+          "value": "1783248983438"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_com.kingpowerclick.firster_ecom_post2",
+          "value": "[{\"evt\":{\"e\":\"ue\",\"eid\":\"153bda62-ec3e-4594-ad7e-74db4f4a07a0\",\"tv\":\"js-3.1.6\",\"tna\":\"com.kingpowerclick.firster_ecom\",\"aid\":\"com.kpc.Firster.Lifestyle.web\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1280x720\",\"cd\":\"24\",\"tz\":\"Asia/Bangkok\",\"dtm\":\"1720176983437\",\"vp\":\"1280x720\",\"ds\":\"1280x1147\",\"vid\":\"1\",\"sid\":\"e3b4f5cd-c6fa-48d4-93f5-6678db1e51df\",\"duid\":\"735ae35b-0c53-480f-ba74-1e6307300ebe\",\"refr\":\"https://dev-web-frontend.firster.kpc-dev.com/login?backUrl=/profile\",\"url\":\"https://dev-web-frontend.firster.kpc-dev.com/login/welcome-back\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5raW5ncG93ZXJjbGljay5maXJzdGVyL2xvZ2luL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7fX19\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20ua2luZ3Bvd2VyY2xpY2suZmlyc3Rlci9hdXRoZW50aWNhdGlvbl9jcmVkZW50aWFsX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiY3JlZGVudGlhbFR5cGUiOiJlbWFpbCJ9fSx7InNjaGVtYSI6ImlnbHU6b3JnLnczL1BlcmZvcm1hbmNlVGltaW5nL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7Im5hdmlnYXRpb25TdGFydCI6MTcyMDE3Njk3NDg5MCwicmVkaXJlY3RTdGFydCI6MTcyMDE3Njk3NDg5MSwicmVkaXJlY3RFbmQiOjE3MjAxNzY5NzQ5NDAsImZldGNoU3RhcnQiOjE3MjAxNzY5NzQ5NDAsImRvbWFpbkxvb2t1cFN0YXJ0IjoxNzIwMTc2OTc0OTQwLCJkb21haW5Mb29rdXBFbmQiOjE3MjAxNzY5NzQ5NDAsImNvbm5lY3RTdGFydCI6MTcyMDE3Njk3NDk0MCwic2VjdXJlQ29ubmVjdGlvblN0YXJ0IjowLCJjb25uZWN0RW5kIjoxNzIwMTc2OTc0OTQwLCJyZXF1ZXN0U3RhcnQiOjE3MjAxNzY5NzQ5NDIsInJlc3BvbnNlU3RhcnQiOjE3MjAxNzY5NzUxMTcsInJlc3BvbnNlRW5kIjoxNzIwMTc2OTc1MjAxLCJ1bmxvYWRFdmVudFN0YXJ0IjowLCJ1bmxvYWRFdmVudEVuZCI6MCwiZG9tTG9hZGluZyI6MTcyMDE3Njk3NTEyNSwiZG9tSW50ZXJhY3RpdmUiOjE3MjAxNzY5NzU4NTgsImRvbUNvbnRlbnRMb2FkZWRFdmVudFN0YXJ0IjoxNzIwMTc2OTc3NDcxLCJkb21Db250ZW50TG9hZGVkRXZlbnRFbmQiOjE3MjAxNzY5Nzc0NzEsImRvbUNvbXBsZXRlIjoxNzIwMTc2OTgwODM0LCJsb2FkRXZlbnRTdGFydCI6MTcyMDE3Njk4MDgzNCwibG9hZEV2ZW50RW5kIjoxNzIwMTc2OTgwODM1fX0seyJzY2hlbWEiOiJpZ2x1Om9yZy5pZXRmL2h0dHBfY2xpZW50X2hpbnRzL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7ImlzTW9iaWxlIjpmYWxzZSwiYnJhbmRzIjpbeyJicmFuZCI6IkhlYWRsZXNzQ2hyb21lIiwidmVyc2lvbiI6IjEyNSJ9LHsiYnJhbmQiOiJDaHJvbWl1bSIsInZlcnNpb24iOiIxMjUifSx7ImJyYW5kIjoiTm90LkEvQnJhbmQiLCJ2ZXJzaW9uIjoiMjQifV19fSx7InNjaGVtYSI6ImlnbHU6Y29tLmdvb2dsZS5hbmFseXRpY3MvY29va2llcy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6e319LHsic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIyYzY3YjdlNy1iMzJlLTQ5YzMtODJhNy1iZWU0MGNjNTM5ZGEifX1dfQ\"},\"bytes\":2557}]"
+        },
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1720176977}"
+        }
+      ]
+    }
+  ]
+}
