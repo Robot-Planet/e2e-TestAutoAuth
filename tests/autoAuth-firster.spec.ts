@@ -3,6 +3,7 @@ import { PlaywrightDevPage } from './Utils/playwright-dev-page';
 import { classMyCustProfile, classMyCustAddress } from './my_profile/plClass';
 import { label, attachment } from "allure-js-commons";  //--- 08/08/2024, Test by Robot
 import { link, issue } from "allure-js-commons";  //--- 08/08/2024, Test by Robot
+import { Console } from 'console';
 //import { log } from 'console';
 
 
@@ -257,6 +258,8 @@ test.describe('Using Authentication Status', () => {
       contentType: "image/png",
     });
     TestInfo.attach('Robot_Test', {body: 'rBot_Body'});
+
+    console.log('Customer my-card');  //--- 2024-08-15, By Robot
 
   });
 
