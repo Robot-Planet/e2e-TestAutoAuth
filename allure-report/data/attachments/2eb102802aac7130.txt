@@ -1,0 +1,7 @@
+MyCustAddr HName: QA AutomateTest
+MyCustAddr Detail: 298/165 หมู่บ้านดิโอโซน (ซอย 15) ซอยเพชรเกษม 53 ถนนเพชรเกษม, หลักสอง, บางแค, กรุงเทพมหานคร 10160
+MyCustAddr Telno: (+66)82 355 7680
+Page MyCustAddr HName: QA AutomateTest , QA AutomateTest NaNQA AutomateTest
+Page MyCustAddr Detail: 298/165 หมู่บ้านดิโอโซน (ซอย 15) ซอยเพชรเกษม 53 ถนนเพชรเกษม, หลักสอง, บางแค, กรุงเทพมหานคร 10160 , 298/165 หมู่บ้านดิโอโซน (ซอย 15) ซอยเพชรเกษม 53 ถนนเพชรเกษม, หลักสอง, บางแค, กรุงเทพมหานคร 10160 NaN298/165 หมู่บ้านดิโอโซน (ซอย 15) ซอยเพชรเกษม 53 ถนนเพชรเกษม, หลักสอง, บางแค, กรุงเทพมหานคร 10160
+Page MyCustAddr Telno: (+66)82 355 7680 , (+66)82 355 7680 NaN(+66)82 355 7680
+Finished my-address with status passed
