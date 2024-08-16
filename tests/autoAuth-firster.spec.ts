@@ -6,6 +6,7 @@ import { link, issue } from "allure-js-commons";  //--- 08/08/2024, Test by Robo
 import { Console } from 'console';
 //import { log } from 'console';
 
+//-- 2024-08-16, by robot
 
 let validUser = 'qa.test02@gmail.com';
 let validPassword = 'Test1234!';
