@@ -1,0 +1,2 @@
+Customer my-card
+Finished my-card with status passed

@@ -1,0 +1,5 @@
+TestCust Email: xxqa.teset02@gmail-xx.com
+TestCust TelNo: -xx
+Page Email: qa.test02@gmail.com , qa.test02@gmail.com
+Page TelNo: - , -
+Finished my-profile with status passed
